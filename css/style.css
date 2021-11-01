@@ -1,0 +1,55 @@
+html,body,h1,h2,h3,h4,h5,h6
+ {
+     font-family: "Roboto", sans-serif;
+     font-weight: 400;
+ }
+ body{
+     background-color: #F1F1F1;
+ }
+ .card-title{
+    color: rgb(117, 117, 117);
+ }
+ .fa{
+    color: rgb(0, 150, 136)
+ }
+ .card-calender{
+     font-size: 1.2rem;
+     color: rgb(0, 150, 136);
+     font-weight: 400;
+ }
+ .item{
+    width: 100px;
+    height: auto;
+    background: white;
+ }
+ #portfolio-footer{
+     color: #ffffff;
+     background-color: rgb(0, 150, 136);
+ }
+.bottom-left{
+    position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+.btn-success{
+    background-color: rgb(0, 150, 136);;
+}
+.first_btn{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#social-icons{
+    display: inline;
+}
+#facolor{
+    color: #fff;
+    font-size: 1.5rem;
+}
+.card-title-name{
+    color: #000;
+}
